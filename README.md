@@ -17,7 +17,7 @@ This dashboard provides comprehensive insights into e-commerce sales, including 
 
 ## How to Use
 
-1. Download the `Nakul e commerce sales dashboard.pbix` file.
+1. Download the `Piyush e commerce sales dashboard.pbix` file.
 2. Open the file using Power BI Desktop.
 3. Explore the interactive visualizations and insights.
 
